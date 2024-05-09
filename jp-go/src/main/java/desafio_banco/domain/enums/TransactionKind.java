@@ -6,7 +6,6 @@ package desafio_banco.domain.enums;
 public enum TransactionKind {
     Withdraw("WITHDRAW"),Deposit("DEPOSIT"),Transfer("TRANSFER");
 
-    private TransactionKind(String kind){
-    }
+    private TransactionKind(String kind){ }
     
 }
