@@ -1,0 +1,6 @@
+jp-go/.settings
+jp-go/target/maven-status/maven-compiler-plugin
+jp-go/target/surefire-reports
+jp-go/.classpath
+jp-go/.project
+jp-go/target
